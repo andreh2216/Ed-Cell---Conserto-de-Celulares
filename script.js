@@ -38,4 +38,3 @@ setInterval(nextSlide, 8000); // Trocar a imagem a cada 3 segundos (opcional)
             scrollToSection(sectionId);
         });
     });
-
